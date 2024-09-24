@@ -1,7 +1,13 @@
-## Overview
-This project demonstrates the implementation of JWT (JSON Web Token) authentication and authorization with ASP.NET Core.
-The main purpose is to provide a robust token-based authentication system with roles and claims management.
-The project includes several API endpoints for managing user authentication and role-based access control.
+# Project Overview
+This project demonstrates the implementation of **JWT (JSON Web Token)** authentication and authorization using **ASP.NET Core**.
+It provides a secure and scalable token-based authentication system with built-in support for *roles* and **claims management**.
+
+The main objectives of this project are:
+
+* **Secure user authentication** using JWT tokens.
+* **Role-based access control** to restrict access to specific endpoints.
+* **Claims management** to handle additional user metadata for authorization.
+* **Implement a refresh token mechanism** for prolonged user sessions while maintaining security.
 
 ## Key Features:
 1. JWT Token Generation:
